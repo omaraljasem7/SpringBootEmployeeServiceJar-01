@@ -1,4 +1,9 @@
-### See The Images after the comamnd
+### See The Images after the command
+
+### First go the Folder where the Dockerfile is located 
+``` bash 
+docker build . -t employee-service:v1
+```
 
 ```bash 
 docker  images 
