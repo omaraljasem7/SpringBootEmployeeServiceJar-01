@@ -1,0 +1,10 @@
+### GET request to example server on /employee
+GET http://localhost:8080/employee
+
+### GET request to the example server on /
+
+
+GET http://localhost:8080/
+
+### GET request to the example server on /about
+GET http://localhost:8080/about
